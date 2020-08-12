@@ -1,0 +1,31 @@
+﻿@model Auvo.Api.Dto.PontoDto
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<a class="btn btn-info" asp-action="CreateRegistro">Novo Registro</a>
+
+<div>
+    <h4>Consulta Registros</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Data)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Data)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-info" asp-action="Index">Voltar</a>
+</div>
+
+<h4>Registros</h4>
+<div>
+    <partial name="../Registros/_ListaDeRegistros" model="@Model.Registros" />
+</div>
+

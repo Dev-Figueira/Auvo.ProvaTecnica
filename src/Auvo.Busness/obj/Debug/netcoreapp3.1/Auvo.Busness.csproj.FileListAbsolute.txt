@@ -1,0 +1,8 @@
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\bin\Debug\netcoreapp3.1\Auvo.Busness.deps.json
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\bin\Debug\netcoreapp3.1\Auvo.Busness.dll
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\obj\Debug\netcoreapp3.1\Auvo.Busness.csprojAssemblyReference.cache
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\obj\Debug\netcoreapp3.1\Auvo.Busness.AssemblyInfoInputs.cache
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\obj\Debug\netcoreapp3.1\Auvo.Busness.AssemblyInfo.cs
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\bin\Debug\netcoreapp3.1\Auvo.Busness.pdb
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\obj\Debug\netcoreapp3.1\Auvo.Busness.dll
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Busness\obj\Debug\netcoreapp3.1\Auvo.Busness.pdb

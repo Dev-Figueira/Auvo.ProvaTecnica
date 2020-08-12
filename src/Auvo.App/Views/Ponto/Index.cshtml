@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Auvo.Api.Dto.PontoDto>
+
+@{
+    ViewData["Title"] = "Lista de Pontos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Data)
+                </td>
+                <td class="text-right">
+                    <a class="btn btn-info" asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

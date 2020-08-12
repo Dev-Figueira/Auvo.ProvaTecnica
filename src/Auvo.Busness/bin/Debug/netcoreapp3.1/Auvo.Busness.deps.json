@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Auvo.Busness/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.1.0"
+        },
+        "runtime": {
+          "Auvo.Busness.dll": {}
+        }
+      },
+      "FluentValidation/9.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auvo.Busness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/9.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FRhaDx3vzj5+zqSEY6cKJDaT7eHhsYAX/TNb56TXCs7y9P1E1huZfxGvtWZFESSZzdFSJ5BJO6fzEPEbf0ENKg==",
+      "path": "fluentvalidation/9.1.0",
+      "hashPath": "fluentvalidation.9.1.0.nupkg.sha512"
+    }
+  }
+}

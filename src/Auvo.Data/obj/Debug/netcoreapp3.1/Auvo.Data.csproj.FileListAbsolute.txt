@@ -1,0 +1,11 @@
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\bin\Debug\netcoreapp3.1\Auvo.Data.deps.json
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\bin\Debug\netcoreapp3.1\Auvo.Data.dll
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\obj\Debug\netcoreapp3.1\Auvo.Data.csprojAssemblyReference.cache
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\obj\Debug\netcoreapp3.1\Auvo.Data.AssemblyInfoInputs.cache
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\obj\Debug\netcoreapp3.1\Auvo.Data.AssemblyInfo.cs
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\bin\Debug\netcoreapp3.1\Auvo.Busness.dll
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\bin\Debug\netcoreapp3.1\Auvo.Data.pdb
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\bin\Debug\netcoreapp3.1\Auvo.Busness.pdb
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\obj\Debug\netcoreapp3.1\Auvo.Data.csproj.CopyComplete
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\obj\Debug\netcoreapp3.1\Auvo.Data.dll
+C:\Users\rodrigo.ramalho\Desktop\Auvo.ProvaTecnica\src\Auvo.Data\obj\Debug\netcoreapp3.1\Auvo.Data.pdb

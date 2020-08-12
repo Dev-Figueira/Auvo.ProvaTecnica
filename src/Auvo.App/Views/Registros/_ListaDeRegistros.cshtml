@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Auvo.Api.Dto.RegistroDto>
+
+<table class="table table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeDoColaborador)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Horario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoDoRegistro)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NomeDoColaborador)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Horario)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TipoDoRegistro)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
