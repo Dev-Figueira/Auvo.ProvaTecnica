@@ -17,7 +17,6 @@ namespace Auvo.Data.Mappings
                 .IsRequired()
                 .HasColumnType("varchar(10)");
 
-            // 1 : N => Fornecedor : Produtos
             builder.HasMany(r => r.Registros)
                 .WithOne(p => p.Ponto)
                 .HasForeignKey(p => p.PontoId);
